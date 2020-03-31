@@ -19,5 +19,5 @@ document.write("<link rel='stylesheet' href='loo_style.css'>");
     document.write(`<br><h3>Your loo rolls will last ${sumOfRollsUsedOverTime.toFixed ()} 
     days</h3>`)
     document.close();
-    
+  
 }
